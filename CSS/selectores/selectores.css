@@ -1,0 +1,27 @@
+/* (*) Selector universal */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Selector de tipo */
+h1 {
+  color:rgb(255, 40, 2);
+  font-size: 40px;
+}
+
+p {
+  background-color: greenyellow;
+  font-size: 20px;
+}
+
+/* (#) Selector de id  */
+#selectordeid {
+  background-color: crimson;
+}
+
+/* (.) Selector de clase*/
+.clase {
+  background-color: cyan;
+}
+
